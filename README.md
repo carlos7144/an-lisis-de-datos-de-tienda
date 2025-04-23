@@ -63,7 +63,7 @@ Tras el análisis de todos los indicadores, se concluye que la **Tienda 4 es la 
    📎 [Abrir en Google Colab](https://colab.research.google.com/drive/16ySzi0YxeVjBW98QTz638LG6mWDfbkIY#scrollTo=3G3uURb09pv4)
 
 3. Si tienes el archivo `.ipynb` en tu repositorio de GitHub, puedes abrirlo así:
-   - Ve a [https://colab.research.google.com/](https://colab.research.google.com/)
+   - Ve a [https://colab.research.google.com/]
    - Selecciona la pestaña **"GitHub"**
    - Pega la URL del repositorio
    - Haz clic en el archivo del notebook y selecciona **"Open in Colab"**
